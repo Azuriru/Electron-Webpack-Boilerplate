@@ -1,9 +1,9 @@
 {
-    "name": "thunders-revenge",
+    "name": "electron-webpack-boilerplate",
     "version": "0.0.1",
-    "description": "Electric Boogaloo: Thunder's Revenge",
-    "productName": "Thunder's Revenge",
-    "main": "server/index.js",
+    "description": "Electron and Webpack boilerplate",
+    "productName": "YWAMPCBIBYLTTSSIGTITOWTTTY",
+    "main": "index.js",
     "scripts": {
         "start": "node server/index.js",
         "build": "webpack --mode production",
@@ -40,10 +40,9 @@
         "url": "https://github.com/GameModerator/Electric-Boogaloo"
     },
     "keywords": [
-        "electric",
-        "boogaloo",
-        "thunder",
-        "revenge"
+        "electron",
+        "webpack",
+        "boilerplate"
     ],
     "author": "Robyn",
     "license": "ISC"
