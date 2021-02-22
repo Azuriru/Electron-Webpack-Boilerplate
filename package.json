@@ -12,6 +12,7 @@
         "package-win": "electron-packager . --prune --overwrite --platform=win32 --arch=ia32 --icon=icons/heart.ico  --out=releases"
     },
     "dependencies": {
+        "@babel/core": "^7.12.17",
         "dorui": "^1.0.1",
         "electron-packager": "^15.1.0"
     },
